@@ -16,7 +16,7 @@
   </p>
   <h2>Quick Start Example - create select insert in buckets </h2>
   This example we will  connects to an S3-compatible object storage container, make a bucket on that container, and upload a file to the bucket and delete from it.
-  <a>read thee file ..</a>
+  <a>read the file minio.py.ipynb </a>
   
   
   
