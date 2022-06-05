@@ -1,5 +1,5 @@
-<h1> MinIO Python SDK for Amazon S3 Compatible Cloud Storage <h1>
-  <p>MinIO Python SDK is Simple Storage Service  client to perform bucket and object operations to any Amazon S3 compatible object storage service.</p>
+<h1> MinIO Python SDK for Amazon S3 Compatible Cloud Storage </h1>
+  <h5>MinIO Python SDK is Simple Storage Service  client to perform bucket and object operations to any Amazon S3 compatible object storage service.</h5>
   <h2>Minimum Requirements</h2>
   <ul>
     <li>Python 3 or higher.</li>
